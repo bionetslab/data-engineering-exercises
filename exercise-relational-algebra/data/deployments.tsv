@@ -1,0 +1,242 @@
+PersonID,Occupation,Ship Deployed On,Year
+PE001,Starfleet Captain,USS Enterprise NCC-1701,2265
+PE001,Starfleet Captain,USS Enterprise NCC-1701-A,2271
+PE001,Starfleet Captain,USS Excelsior,2280
+PE001,Admiral,Starbase 1,2290
+PE001,Instructor,Starfleet Academy,2305
+PE001,Retired,Earth,2310
+PV002,Science Officer,USS Enterprise NCC-1701,2265
+PV002,Science Officer,USS Enterprise NCC-1701-A,2271
+PV002,Science Officer,USS Intrepid,2285
+PV002,First Officer,USS Surak,2295
+PV002,Ambassador,Vulcan High Command,2305
+PV002,Retired,Vulcan,2310
+PE003,Chief Medical Officer,USS Enterprise NCC-1701,2265
+PE003,Chief Medical Officer,USS Enterprise NCC-1701-A,2271
+PE003,Chief Medical Officer,USS Repulse,2280
+PE003,CMO,Starbase Medical,2290
+PE003,Head of Surgery,Earth Medical Center,2300
+PE003,Retired,Earth,2305
+PE004,Chief Engineer,USS Enterprise NCC-1701,2265
+PE004,Chief Engineer,USS Enterprise NCC-1701-A,2271
+PE004,Chief Engineer,USS Reliant,2282
+PE004,Engineering Consultant,Starfleet R&D,2295
+PE004,Professor of Engineering,Starfleet Academy,2305
+PE004,Retired,Earth,2310
+PE005,Communications Officer,USS Enterprise NCC-1701,2265
+PE005,Communications Officer,USS Traumschiff Surprise,2275
+PE005,Diplomatic Liaison,United Federation of Planets,2285
+PE005,Instructor,Starfleet Academy,2295
+PE005,Retired,Earth,2305
+PE006,Helmsman,USS Enterprise NCC-1701,2265
+PE006,Flight Instructor,Starfleet Academy,2275
+PE006,Captain,USS Excelsior,2285
+PE006,Commodore,Starfleet Command,2295
+PE006,Retired,Earth,2305
+PE007,Navigator,USS Enterprise NCC-1701,2265
+PE007,Science Officer,USS Reliant,2275
+PE007,Strategic Operations Officer,Starfleet Command,2285
+PE007,Captain,USS Суриков,2295
+PE007,Retired,Earth,2305
+PE008,Starfleet Captain,USS Enterprise NCC-1701-D,2364
+PE008,Starfleet Captain,USS Stargazer,2333
+PE008,Ambassador,United Federation of Planets,2370
+PE008,Captain,USS Enterprise NCC-1701-E,2373
+PE008,Admiral,Starfleet Command,2380
+PE008,Retired,Earth,2385
+PE009,First Officer,USS Enterprise NCC-1701-D,2364
+PE009,Captain,USS Titan,2375
+PE009,Admiral,Starfleet Command,2390
+PE009,Retired,Earth,2400
+PN010,Second Officer,USS Enterprise NCC-1701-D,2364
+PN010,Second Officer,USS Enterprise NCC-1701-E,2373
+PN010,Ambassador,United Federation of Planets,2375
+PN010,Head of Security,Daystrom Institute,2385
+PN010,Retired,Earth,2395
+PB011,Counselor,USS Enterprise NCC-1701-D,2364
+PB011,Counselor,USS Avalon,2370
+PB011,Diplomatic Counselor,United Federation of Planets,2380
+PB011,Professor of Psychology,Starfleet Academy,2390
+PB011,Retired,Betazed,2400
+PE012,Chief Engineer,USS Enterprise NCC-1701-D,2364
+PE012,Chief Engineer,USS Challenger,2370
+PE012,Engineering Consultant,Starfleet R&D,2380
+PE012,Head of Engineering,Jupiter Station,2390
+PE012,Retired,Earth,2400
+PQ013,Chief of Security,USS Enterprise NCC-1701-D,2364
+PQ013,Tactical Officer,Deep Space K-7,2369
+PQ013,Captain,USS Defiant,2373
+PQ013,Ambassador,Qo'noS,2375
+PQ013,Head of House of Martok,Qo'noS,2385
+PQ013,Retired,Qo'noS,2390
+PE014,Chief Medical Officer,USS Enterprise NCC-1701-D,2364
+PE014,Chief Medical Officer,USS Pasteur,2375
+PE014,Head of Starfleet Medical,Starfleet Command,2385
+PE014,Medical Consultant,Earth Medical Center,2395
+PE014,Retired,Earth,2405
+PE015,Starfleet Captain,Deep Space Nine,2369
+PE015,Starfleet Captain,USS Defiant,2373
+PE015,Emissary,Bajor,2375
+PE015,Admiral,Starfleet Command,2380
+PE015,Retired,Earth,2390
+PB016,Bajoran Militia/Starfleet Officer,Deep Space Nine,2369
+PB016,First Officer,USS Defiant,2373
+PB016,Commander,Bajoran Militia,2375
+PB016,Liaison Officer,Starfleet Command,2380
+PB016,Retired,Bajor,2385
+PN017,Security Officer,Deep Space Nine,2369
+PN017,Constable,Deep Space Nine,2370
+PN017,Chief of Security,Deep Space Nine,2372
+PN017,Advisor,Bajoran Government,2380
+PN017,Returned to Great Link,Unknown,Unknown
+PT018,Science Officer,Deep Space Nine,2369
+PT018,Science Officer,USS Defiant,2373
+PT018,Joined Symbiont Commission,Trill,2376
+PT018,Ambassador,United Federation of Planets,2380
+PT018,Retired,Trill,2385
+PE019,Chief Medical Officer,Deep Space Nine,2369
+PE019,CMO,USS Valiant,2373
+PE019,Head of Xenobiology,Starfleet Medical,2376
+PE019,Professor of Medicine,Starfleet Academy,2380
+PE019,Retired,Earth,2390
+PF020,Bar Owner,Deep Space Nine,2369
+PF020,Entrepreneur,Ferenginar,2380
+PF020,Grand Nagus,Ferenginar,2385
+PF020,Retired,Ferenginar,2400
+PE021,Starfleet Captain,USS Voyager NCC-74656,2371
+PE021,Admiral,Starfleet Command,2378
+PE021,Instructor,Starfleet Academy,2385
+PE021,Special Envoy,United Federation of Planets,2390
+PE021,Retired,Earth,2401
+PE022,First Officer,USS Voyager NCC-74656,2371
+PE022,Captain,USS Equinox,2378
+PE022,Diplomatic Envoy,United Federation of Planets,2385
+PE022,Retired,Earth,2395
+PV023,Security/Tactical Officer,USS Voyager NCC-74656,2371
+PV023,Tactical Officer,USS Rhode Island,2378
+PV023,Security Chief,Vulcan High Command,2385
+PV023,Retired,Vulcan,2405
+PE024,Chief Engineer,USS Voyager NCC-74656,2371
+PE024,Chief Engineer,USS Prometheus,2378
+PE024,Engineering Consultant,Starfleet R&D,2385
+PE024,Head of Advanced Technology,Starfleet Command,2390
+PE024,Retired,Earth,2401
+PE025,Operations Officer,USS Voyager NCC-74656,2371
+PE025,Operations Officer,USS Sao Paulo,2378
+PE025,Strategic Operations Officer,Starfleet Command,2385
+PE025,Captain,USS Rhode Island,2390
+PE025,Retired,Earth,2401
+PN026,Chief Medical Officer,USS Voyager NCC-74656,2371
+PN026,CMO,Mobile Emitter,2378
+PN026,Holographic Consultant,Jupiter Station,2385
+PN026,Retired,Holographic Archive,2395
+PT027,Morale Officer,USS Voyager NCC-74656,2371
+PT027,Chef,Various Locations,2378
+PT027,Restaurateur,Talax,2385
+PT027,Retired,Talax,2395
+PE028,Starfleet Officer,USS Voyager NCC-74656,2375
+PE028,Tactical Officer,USS Defiant,2376
+PE028,First Officer,USS Luna,2380
+PE028,Captain,USS Theseus,2385
+PE028,Retired,Earth,2395
+PE029,Starfleet Captain,USS Enterprise NX-01,2151
+PE029,Starfleet Captain,USS Columbia NX-02,2156
+PE029,Admiral,Starfleet Command,2161
+PE029,Ambassador,United Federation of Planets,2170
+PE029,Retired,Earth,2180
+PV030,Vulcan Science Officer,USS Enterprise NX-01,2151
+PV030,Science Officer,USS Shran,2156
+PV030,Instructor,Vulcan Science Academy,2161
+PV030,Ambassador,Vulcan High Command,2170
+PV030,Retired,Vulcan,2180
+PE031,Tactical Officer,USS Enterprise NX-01,2151
+PE031,Security Officer,MACO,2153
+PE031,Captain,USS Pioneer,2160
+PE031,Tactical Advisor,Starfleet Command,2170
+PE031,Retired,Earth,2180
+PE032,Communications Officer,USS Enterprise NX-01,2151
+PE032,Translator,United Federation of Planets,2160
+PE032,Cultural Affairs Officer,Starfleet Command,2170
+PE032,Retired,Earth,2180
+PE033,Chief Engineer,USS Enterprise NX-01,2151
+PE033,Chief Engineer,USS Intrepid,2156
+PE033,Engineering Consultant,Starfleet R&D,2161
+PE033,Head of Engineering,Earth Space Dock,2170
+PE033,Retired,Earth,2180
+PE034,Starfleet Captain,USS Discovery NC-1031,2256
+PE034,Captain,USS Shenzhou,2250
+PE034,First Officer,USS Buran,2249
+PE0034,Retired,Earth,2306
+PK035,Starfleet Captain,USS Discovery NC-1031,2256
+PK035,Ambassador,Kaminar,2258
+PK035,Elder,Ba'ul Council,2260
+PK035,Retired,Kaminar,2306
+PE036,Science Officer,USS Discovery NC-1031,2256
+PE036,Astrometrics Officer,USS Glenn,2255
+PE036,Researcher,Vulcan Science Academy,2254
+PE036,Retired,Earth,2306
+PE037,Starfleet Officer,USS Discovery NC-1031,2256
+PE037,Engineer,USS T'Kumbra,2257
+PE037,Counselor,USS Coleman,2258
+PE037,Retired,Earth,2306
+PE038,Civilian,La Sirena,2399
+PE038,Starfleet Admiral,USS Enterprise NCC-1701-D,2380
+PE038,Captain,USS Stargazer,2340
+PE038,First Officer,USS Reliant,2330
+PE038,Retired,Earth,2410
+PE039,Fenris Rangers,La Sirena,2399
+PE039,Borg Designation Tertiary Adjunct of Unimatrix 01 Unimatrix 01,2376
+PE039,Unimatrix Zero Resident,Unimatrix Zero,2374
+PE039,Prisoner,USS Voyager NCC-74656,2378
+PE039,Retired,Earth,2400
+PE040,Intelligence Officer,La Sirena,2399
+PE040,Operative,Section 31,2390
+PE040,Security Officer,USS Sutherland,2380
+PE040,Tactical Officer,USS Defiant,2375
+PE040,Retired,Earth,2400
+PE041,Doctor,La Sirena,2399
+PE041,Researcher,Daystrom Institute,2390
+PE041,Surgeon,USS Pasteur,2385
+PE041,Medical Officer,USS Enterprise NCC-1701-E,2380
+PE041,Retired,Earth,2400
+PE042,Captain of La Sirena,La Sirena,2399
+PE042,Captain,USS Ibn Majid,2390
+PE042,First Officer,USS Armstrong,2380
+PE042,Pilot,Merchant Freighter,2375
+PE042,Retired,Earth,2405
+PE043,Traveler,NA,Unknown
+PE043,Student,The University of Earth,2369
+PE043,Ensign,USS Enterprise NCC-1701-D,2371
+PE043,Doctor,Civilian practice,2380
+PE043,Retired,Earth,2400
+PU044,Bar tender,Enterprise D,2364
+PU044,Bar tender,Various locations,2368
+PU044,Advisor,United Federation of Planets,2390
+PU044,Retired,Earth,2414
+PN045,Q,Q,NA
+PN045,Q,Q,NA
+PN045,Q,Q,NA
+PN045,Q,Q,NA
+PN045,Q,Q,NA
+PN045,Retired,NA,Unknown
+PE046,Chief of Operations,Deep Space Nine,2369
+PE046,Transporter Chief,USS Rutledge,2364
+PE046,Engineer,USS Firebrand,2354
+PE046,Instructor,Starfleet Academy,2350
+PE046,Retired,Earth,2399
+PT047,Counselor,Deep Space Nine,2369
+PT047,Counselor,USS Enterprise NCC-1701-E,2375
+PT047,Trill Ambassador,United Federation of Planets,2385
+PT047,Retired,Trill,2399
+PE048,helmsman,USS Voyager NCC-74656,2371
+PE048,Pilot,Delta Quadrant,2378
+PE048,Instructor,Starfleet Academy,2385
+PE048,Retired,Earth,2395
+PO049,medical officer,USS Cerritos,2380
+PO049,Junior Medical Officer,Starbase Earhart,2378
+PO049,Medical Resident,Vulcan General Hospital,2376
+PO049,Retired,Orion,2390
+PE050,Starfleet officer,USS Cerritos,2380
+PE050,Ensign,USS Vancouver,2379
+PE050,Security Officer,Deep Space K-7,2378
+PE050,Retired,Earth,2390

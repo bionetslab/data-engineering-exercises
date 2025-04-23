@@ -1,0 +1,58 @@
+PersonID	Name	Home Planet	Gender	Age
+PE001	Kirk	Earth	Male	34
+PV002	Spock	Vulcan	Male	42
+PE003	McCoy	Earth	Male	39
+PE004	Scotty	Earth	Male	48
+PE005	Uhura	Earth	Female	31
+PE006	Sulu	Earth	Male	33
+PE007	Chekov	Earth	Male	27
+PE008	Picard	Earth	Male	62
+PE009	Riker	Earth	Male	36
+PN010	Data	NA 	NA	28
+PB011	Troi	Betazed	Female	32
+PE012	La Forge	Earth	Male	35
+PQ013	Worf	Qo'noS	Male	38
+PE014	Crusher	Earth	Female	45
+PE015	Sisko	Earth	Male	40
+PB016	Kira	Bajor	Female	33
+PN017	Odo	NA 	NA	150
+PT018	Jadzia	Trill	Female	34
+PE019	Bashir	Earth	Male	29
+PF020	Quark	Ferenginar	Male	200
+PE021	Janeway	Earth	Female	42
+PE022	Chakotay	Earth	Male	47
+PV023	Tuvok	Vulcan	Male	110
+PE024	Torres	Earth	Female	30
+PE025	Kim	Earth	Male	26
+PN026	Doctor	NANA	NANA	5
+PT027	Neelix	Talax	Male	40
+PTX44	Skywalker	Tatooine	Female	34
+PE028	Seven	Earth/Borg	Female	32
+PE029	Archer	Earth	Male	45
+PV030	T'Pol	Vulcan	Female	66
+PE031	Reed	Earth	Male	38
+PE032	Sato	Earth	Female	30
+PE033	Tucker	Earth	Male	40
+PE034	Burnham	Earth	Female	37
+PK035	Saru	Kaminar	Male	40
+PE036	Stamets	Earth	Male	48
+PE033	Tucker	Earth	Male	40
+PE037	Tilly	Earth	Female	28
+PE038	Picard(Picard)	Earth	Male	90
+PE039	Seven (Picard)	Earth/Borg	Female	39
+PE040	Musiker	Earth	Female	55
+PE041	Jurati	Earth	Female	38
+PE042	Rios	Earth	Male	46
+PE043	Crusher, Wesley	Earth	Male	30
+PU044	Guinan	Unknown	Female	500
+PE046	O'Brien	Earth	Male	43
+PT047	Dax, Ezri	Trill	Female	29
+PE048	Paris, Tom	Earth	Male	30
+PO049	Tendi	Orion	Female	26
+PE050	Boimler	Earth	Male	27
+PQ013	Worf	Qo'noS	Male	38
+PE005	Uhura	Earth	Female	31
+PE040	Musiker	Earth	Female	55
+PE041	Jurati	Earth	Female	38
+PE042	Rios	Earth	Male	46
+PE043	Crusher, Wesley	Earth	Male	30
