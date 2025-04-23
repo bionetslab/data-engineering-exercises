@@ -1,0 +1,16 @@
+DiagnosisID	DiagnosisDescription	ICDCode
+1	Giggling	L10
+2	Laughing	L11
+3	Smiling	L12
+4	Giggling, funny	C1
+5	Giggling, extended	C2
+6	Giggling, super giggly	C3
+7	Crying	C1
+8	Crying, terrible	C11
+9	Crying, extended	C12
+10	Happiness	H1
+11	Joy	H2
+12	Joy, overjoyed	H3
+13	Tiredness	T2
+14	Tiredness, terrible	T3
+15	Exhaustion	E1

@@ -1,0 +1,16 @@
+DrugID	ChemicalSubstance	BrandName	GenericName	Dosage	PackageSize
+1	Glucose	Gluci	GlucoGlu	1g	100
+2	Glucose	Gluci	GlucoGlu	10g	1200
+3	Glucose	GluGlu	GlucoGlu	5g	100
+4	Glucose	GluGlu	GlucoGlu	1g	120
+5	Menthol	Pepperrrr	Peperminit	12mg	100
+6	Menthol	Pepperrrr	Peperminit	1mg	12
+7	Menthol	Pepp	Peperminit	1mg	10
+8	Menthol	Pepp	Peperminit	12mg	5000
+9	Menthol	Pepp	Peperminit	1mg	1200
+10	Caffeine	Coffi	Caffeini	1mg	35
+11	Caffeine	Coffi	Caffeini	2mg	60
+12	Caffeine	Coffi	Caffeini	10mg	12
+13	Caffeine	Cofe	Caffex	1mg	12
+14	Caffeine	Cofe	Caffex	5mg	60
+15	Caffeine	Cofe	Caffex	100mh	35
