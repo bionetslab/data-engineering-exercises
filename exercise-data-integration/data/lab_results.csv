@@ -1,0 +1,11 @@
+PatientID,LabTest,ResultValue,Unit,Timestamp,FirstName,LastName,DateOfBirth
+1,Hemoglobin,120.42,g/dL,1/1/2023,Alice,Smith,5/10/1980
+2,Creatinine,141.76,mg/dL,1/8/2023,Bob,Jones,8/20/1975
+3,LDL,,mg/dL,1/15/2023,Carlos,Diaz,2/15/1990
+4,Creatinine,194,mg/dL,1/22/2023,Dana Jeremy,Lee,12/1/1985
+5,Creatinine,166.57,mg/dl,1/29/2023,Evan,Taylor,7/30/1992
+6,Cholesterol,42.86,mg/dL,2/5/2023,Grace,Nguyen,3/15/1970
+7,LDL,36.77,g/dL,2/12/2023,Henry Carol,Smith,6/10/1988
+8,LDL,37.09,g/dL,2/19/2023,Isla,Ali,9/22/1993
+9,LDL,61.2,g/dL,2/26/2023,Jack,Brown,1/5/1982
+10,Creatinine,105.19,g/dL,3/5/2023,Karen,Martinez,11/11/1995

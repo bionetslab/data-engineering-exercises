@@ -1,0 +1,6 @@
+ID,FirstName,LastName,DateOfBirth,Gender,Diagnosis,MedicationCode
+101,Grace,Nguyen,3/15/1970,Female,J45.909,R03AC02
+102,Henry Carol,Smith,6/10/1988,Male,E66.9,A08AA01
+103,Isla,Ali,9/22/1993,Female,F32.9,N06AB03
+104,Jack,Brown,1/5/1982,Male,M54.5,M01AE01
+105,Karen,Martinez,11/11/1995,Other,I50.9,C03DA01

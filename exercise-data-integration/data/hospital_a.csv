@@ -1,0 +1,6 @@
+PatientID,FullName,DOB,Gender,Diagnosis,Medication
+1,Alice Smith,5/10/1980,F,250,Metformin
+2,Bob Jones,8/20/1975,M,401.9,Lisinopril
+3,Carlos Diaz,2/15/1990,M,272.4,Atorvastatin
+4,Dana Jeremy Lee,12/1/1985,F,530.81,Omeprazole
+5,Evan Taylor,7/30/1992,M,414.01,Aspirin
